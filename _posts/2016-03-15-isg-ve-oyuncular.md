@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-15T19:14:06.748Z'
-dateModified: '2016-03-15T19:12:54.585Z'
-title: Fil Uzmanları
+datePublished: '2016-03-15T19:15:15.299Z'
+dateModified: '2016-03-15T19:14:14.102Z'
+title: Fil mi ? Fil ne arar la bazarda ?
 author: []
 sourcePath: _posts/2016-03-15-isg-ve-oyuncular.md
 published: true
@@ -23,6 +23,8 @@ _type: Article
 
 ---
 ## İş Güvenliği : Bir Fil Hikayesi
+
+_Türkgüven Yazılım Orijinal Makale_
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/37f8f12f-5a90-4a3b-b380-e7a52d9a7047.jpg)
 
 > Körlerin fili tarif etmesi, eski bir hikayedir. Bir grup kör, filin yanına giderek filin nasıl birşey olduğunu anlamak için incelemeye başlarlar. Bu inceleme sonrasında, her birisi fili tanıdığını düşünerek filin nasıl birşey olduğunu anlatır. 

@@ -4,7 +4,7 @@
         <description><![CDATA[Türkgüven İSG]]></description>
         <link>https://thegrid.ai/turkguven/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 18:44:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 19:04:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/turkguven/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[İş Güvenliği : Bir Fil Hikayesi]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/turkguven/isg-ve-oyuncular/index.html</link>
             <guid isPermaLink="false">eef8aa7b-dd03-47ab-acf8-addd60632d4e</guid>
             <pubDate>Tue, 15 Mar 2016 18:43:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Türkgüven İSG Blog]]></title>
-            <description><![CDATA[<article><h1>Türkgüven İSG Blog</h1><p>Türkgüven ailesi olarak yeni blog sitemizi açtık. Bu sitede iş güvenliği ile ilgili bilgiler paylaşıyor olacağız.</p></article>]]></description>
-            <link>https://thegrid.ai/turkguven/turkguven-isg-blog/index.html</link>
-            <guid isPermaLink="false">7ae8d687-edea-4eb6-9508-db4afe5f73b9</guid>
-            <pubDate>Tue, 15 Mar 2016 18:03:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

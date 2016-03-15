@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-15T18:43:30.423Z'
-dateModified: '2016-03-15T18:43:29.297Z'
+datePublished: '2016-03-15T19:03:51.640Z'
+dateModified: '2016-03-15T19:03:50.793Z'
 title: İSG ve Oyuncular
 author: []
 sourcePath: _posts/2016-03-15-isg-ve-oyuncular.md
@@ -49,9 +49,10 @@ Sonra geçen süre içerisinde, yavaş yavaş, bunun aslında bir fil olduğunu,
 
 Tam bu noktaya geldiğimiz zaman, artık biliyoruz ki, fil bir bütün olsa da, her tarif eden için bu filin tamamına ihtiyaç yoktur.
 
-> Herkes filin farklı kısımlarına ihtiyaç duyar, ya da herkesin birim zamanda baş edebileceği fil parçaları farklıdır.
+Herkes filin farklı kısımlarına ihtiyaç duyar, ya da herkesin birim zamanda baş edebileceği fil parçaları farklıdır.
 
-Biz, filin fil olduğunu öğrendikten sonra, önce fili kabullenerek kucakladık.
+> Biz, filin fil olduğunu öğrendikten sonra, fili kabullenerek önce kucakladık.
+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d04243a6-0bf1-4701-ba23-93b9a4518480.jpg)
 
 Sonra sofraya oturarak, bu fili yiyebilmek için hangi parçalara ayırabileceğimize baktık. Çünkü, bir fil yemek isteyen kimse, her seferinde bir ısırıkla yiyebilir, ve bu ısırıkların hangileri olacağı bizim için kritikti.

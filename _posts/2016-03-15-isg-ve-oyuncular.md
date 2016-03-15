@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-15T20:12:42.038Z'
-dateModified: '2016-03-15T20:11:53.110Z'
+datePublished: '2016-03-15T20:15:06.479Z'
+dateModified: '2016-03-15T20:14:20.155Z'
 title: Fil Uzmanları
 author: []
 sourcePath: _posts/2016-03-15-isg-ve-oyuncular.md

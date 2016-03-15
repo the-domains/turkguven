@@ -1,0 +1,28 @@
+name: Türkgüven İSG
+favicon: null
+layout_spectrum: 0.07504574488848448
+typography_spectrum: 0.23884073621593416
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.13576554041355848
+  lightness: 0.7724735091906041
+  saturation: 0.5080565803218633
+  rhythmicContrast: 0.19862918532453477
+purpose: []

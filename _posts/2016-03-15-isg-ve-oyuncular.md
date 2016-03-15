@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-15T20:15:06.479Z'
-dateModified: '2016-03-15T20:14:20.155Z'
+description: 'Körlerin fili tarifi & İş Güvenliği'
+datePublished: '2016-03-15T20:20:36.034Z'
+dateModified: '2016-03-15T20:20:34.426Z'
 title: Fil Uzmanları
 author: []
 sourcePath: _posts/2016-03-15-isg-ve-oyuncular.md

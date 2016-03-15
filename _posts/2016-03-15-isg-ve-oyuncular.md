@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-15T19:16:05.417Z'
-dateModified: '2016-03-15T19:15:26.276Z'
+datePublished: '2016-03-15T19:23:11.651Z'
+dateModified: '2016-03-15T19:22:57.724Z'
 title: Fil Uzmanları
 author: []
 sourcePath: _posts/2016-03-15-isg-ve-oyuncular.md
@@ -81,5 +81,6 @@ Günün sonunda, hala birçok oyuncu için fil bir fil değil, kulak veya hortum
 Bu amaçla pazarı segmente ederek farklı modül yapıları oluşturduk, ve bu modüller her bir farklı "fil tarifi" veren kişiye uygun olacak şekilde birleştiriliyor.
 
 [Türkgüven ile tanışmak için tıklayınız.][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48f9d5ec-bc14-4195-ab2e-52497bc6863d.jpg)
 
 [0]: http://www.turkguven.com/

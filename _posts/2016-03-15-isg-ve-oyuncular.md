@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-15T19:15:15.299Z'
-dateModified: '2016-03-15T19:14:14.102Z'
-title: Fil mi ? Fil ne arar la bazarda ?
+datePublished: '2016-03-15T19:16:05.417Z'
+dateModified: '2016-03-15T19:15:26.276Z'
+title: Fil Uzmanları
 author: []
 sourcePath: _posts/2016-03-15-isg-ve-oyuncular.md
 published: true

@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-15T18:29:50.745Z'
-dateModified: '2016-03-15T18:29:49.884Z'
+datePublished: '2016-03-15T18:43:30.423Z'
+dateModified: '2016-03-15T18:43:29.297Z'
 title: İSG ve Oyuncular
 author: []
+sourcePath: _posts/2016-03-15-isg-ve-oyuncular.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-isg-ve-oyuncular.md
-published: true
 url: isg-ve-oyuncular/index.html
 _type: Article
 
@@ -49,6 +49,16 @@ Sonra geçen süre içerisinde, yavaş yavaş, bunun aslında bir fil olduğunu,
 
 Tam bu noktaya geldiğimiz zaman, artık biliyoruz ki, fil bir bütün olsa da, her tarif eden için bu filin tamamına ihtiyaç yoktur.
 
-> Herkes filin farklı kısımlarına ihtiyaç duyar, ya da herkesin birim zamanda baş edebileceği fil parçaları farklıdır, çünkü fil aslında çok büyük olduğundan lokma lokma yenir.
+> Herkes filin farklı kısımlarına ihtiyaç duyar, ya da herkesin birim zamanda baş edebileceği fil parçaları farklıdır.
 
+Biz, filin fil olduğunu öğrendikten sonra, önce fili kabullenerek kucakladık.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d04243a6-0bf1-4701-ba23-93b9a4518480.jpg)
+
+Sonra sofraya oturarak, bu fili yiyebilmek için hangi parçalara ayırabileceğimize baktık. Çünkü, bir fil yemek isteyen kimse, her seferinde bir ısırıkla yiyebilir, ve bu ısırıkların hangileri olacağı bizim için kritikti.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb456b12-4169-4044-b802-0db79351fae7.jpg)
+
+Günün sonunda, hala birçok oyuncu için fil bir fil değil, kulak veya hortumdan ibaret, ve bizim gitgide uzmanlaştığımız alan ise o kişi için fil'in ne olduğu, veya o kişinin fil'in hangi kısmını sevdiği. 
+> 
+> Buna göre, biz filin o kısmı hakkında konuşup onunla ilgili bilgimizi paylaşıyoruz. Ancak fil hala orada, ve her zaman orada olacak.
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da1dace1-fd82-425a-9c3a-317deec76f76.jpg)

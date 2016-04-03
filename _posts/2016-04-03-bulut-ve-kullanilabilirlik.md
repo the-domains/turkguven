@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Uzunca bir süredir, kurumsal bilgi işlemleri meşgul eden ve adapte olmalarını gerektiren bir konu var : Bulut.'
-datePublished: '2016-04-03T09:05:12.947Z'
-dateModified: '2016-04-03T09:04:05.116Z'
+datePublished: '2016-04-03T09:08:41.449Z'
+dateModified: '2016-04-03T09:05:23.469Z'
 title: Bulut ve Kullanılabilirlik
 author: []
 sourcePath: _posts/2016-04-03-bulut-ve-kullanilabilirlik.md

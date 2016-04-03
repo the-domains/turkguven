@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Uzunca bir süredir, kurumsal bilgi işlemleri meşgul eden ve adapte olmalarını gerektiren bir konu var : Bulut.'
-datePublished: '2016-04-03T08:29:17.837Z'
-dateModified: '2016-04-03T07:54:27.087Z'
+datePublished: '2016-04-03T09:05:12.947Z'
+dateModified: '2016-04-03T09:04:05.116Z'
 title: Bulut ve Kullanılabilirlik
 author: []
 sourcePath: _posts/2016-04-03-bulut-ve-kullanilabilirlik.md
@@ -110,5 +110,13 @@ En zorlandığımız ve üzerinde zaman harcadığımız konu bu, zira iş uygul
 Bu konuda katedecek çok yolumuz var. Şu andaki mekanizmalar (video vb) bu konuyla ilgili çok etkin olmuyor, çünkü müşteri bunları seyretmek konusunda isteksiz, ve alan gerçekten çok geniş.
 
 Burada örnek alınabilecek sektör, oyun yazılımı sektörü. Eğitim konusunu kullanıcıyı sıkmadan ve adım adım verebiliyorlar, başlangıç kolay, devam ettikçe uzmanlık kazanılıyor. İş uygulamalarının bu sektörden öğrenebilecekleri çok.
+
+# Etki
+
+Bu yaptığımız çalışmaların etkisi olarak, müşterilerin ve potansiyel müşterilerin tamamının söylediği şey: 
+> 
+> Çok kolay kullanılabiliyor
+
+Bunun ötesinde, aynı zamanda bazı müşteriler de 
 
 [0]: http://www.turkguven.com/

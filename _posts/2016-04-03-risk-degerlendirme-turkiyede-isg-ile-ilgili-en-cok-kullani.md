@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Ancak, sorun tespiti olarak, bu yapılan risk değerlendirmelerin bir excel dosyası içerisinde bilgisayarda ve imzalı olarak bir dosyanın içerisinde tutulması, bize fayda sağlamıyor. Bu ayrı bir tartışma konusu.'
-datePublished: '2016-04-03T08:37:09.997Z'
-dateModified: '2016-04-03T08:36:29.669Z'
+datePublished: '2016-04-03T08:57:31.268Z'
+dateModified: '2016-04-03T08:56:43.888Z'
 title: 'Risk Değerlendirme : Şubeli Yapılar'
 author: []
 sourcePath: _posts/2016-04-03-risk-degerlendirme-turkiyede-isg-ile-ilgili-en-cok-kullani.md
@@ -71,7 +71,7 @@ Risk değerlendirmeler düzgün şekilde işlenebilirse, bana yangın merdiveni 
 
 Dolayısı ile, tüm risk değerlendirmelerin tek başına yaşamasından ziyade, aynı zamanda bir bütün gibi hareket edebilmeli ve raporlama ve konsolidasyona imkan vermelidir.
 
-[Türkgüven][0] içerisinde buna bulduğumuz çözüm şöyle oldu :
+**[Türkgüven][0] içerisinde buna bulduğumuz çözüm şöyle oldu :**
 
 **1\. Risk Değerlendirme Şablonları**
 

@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Uzunca bir süredir, kurumsal bilgi işlemleri meşgul eden ve adapte olmalarını gerektiren bir konu var : Bulut.'
-datePublished: '2016-04-03T07:46:12.229Z'
-dateModified: '2016-04-03T07:45:48.886Z'
-title: Bulut ve Kullanılabilirlik
+datePublished: '2016-04-03T07:50:11.567Z'
+dateModified: '2016-04-03T07:46:18.483Z'
+title: 'Bulut ve Kullanılabilirlik '
 author: []
 sourcePath: _posts/2016-04-03-bulut-ve-kullanilabilirlik.md
 published: true
@@ -22,7 +22,7 @@ url: bulut-ve-kullanilabilirlik/index.html
 _type: Article
 
 ---
-# Bulut ve Kullanılabilirlik  
+# Bulut ve Kullanılabilirlik
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4ce4076-e771-459e-9dc0-fd38b3bb0f83.jpg)
 
 Uzunca bir süredir, kurumsal bilgi işlemleri meşgul eden ve adapte olmalarını gerektiren bir konu var : Bulut.

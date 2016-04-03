@@ -6,22 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Risk değerlendirme, Türkiye'de İSG ile ilgili en çok kullanılan araç. Bu aracın kullanımı esnasında, çıktı içerisinde hangi kolonların olacağı, bu kolonların sırası, büyüklüğü, fotoğrafların yeri, içeriği vb konuları ile yakından ilgileniyoruz."
-datePublished: '2016-04-03T08:25:29.286Z'
-dateModified: '2016-04-03T08:25:10.327Z'
+datePublished: '2016-04-03T08:28:59.854Z'
+dateModified: '2016-04-03T08:28:49.441Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-03-risk-degerlendirme-turkiyede-isg-ile-ilgili-en-cok-kullani.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-risk-degerlendirme-turkiyede-isg-ile-ilgili-en-cok-kullani.md
-published: true
 url: risk-degerlendirme-turkiyede-isg-ile-ilgili-en-cok-kullani/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a20b4d87-6e25-4f99-a5ff-4b0f07f9151e.jpg)
+
+## 
+
 ## Risk Değerlendirme : Şubeli Yapılar
 
 Risk değerlendirme, Türkiye'de İSG ile ilgili en çok kullanılan araç. Bu aracın kullanımı esnasında, çıktı içerisinde hangi kolonların olacağı, bu kolonların sırası, büyüklüğü, fotoğrafların yeri, içeriği vb konuları ile yakından ilgileniyoruz.

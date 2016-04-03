@@ -5,24 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-03T07:42:31.418Z'
-dateModified: '2016-04-03T07:38:27.080Z'
+description: 'Uzunca bir süredir, kurumsal bilgi işlemleri meşgul eden ve adapte olmalarını gerektiren bir konu var : Bulut.'
+datePublished: '2016-04-03T07:46:12.229Z'
+dateModified: '2016-04-03T07:45:48.886Z'
 title: Bulut ve Kullanılabilirlik
 author: []
+sourcePath: _posts/2016-04-03-bulut-ve-kullanilabilirlik.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-03-bulut-ve-kullanilabilirlik.md
-published: true
 url: bulut-ve-kullanilabilirlik/index.html
 _type: Article
 
 ---
-# Bulut ve Kullanılabilirlik
+# Bulut ve Kullanılabilirlik  
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4ce4076-e771-459e-9dc0-fd38b3bb0f83.jpg)
 
 Uzunca bir süredir, kurumsal bilgi işlemleri meşgul eden ve adapte olmalarını gerektiren bir konu var : Bulut.
 
@@ -41,6 +42,7 @@ Tüketici, bulut üzerine kurulu sistemlerle aşina olmaya başladığı zaman, 
 Bu sayede, sonrasında iş modellerinde değişiklikler başladı. Daha önce daha maliyetli olan uygulamalar, bulut sayesinde kurulum olmadan sunulmaya başlandı ve bu sunulma sayesinde düşen çift taraflı maliyetler farklı bir oyun ortaya çıkardı. Bu oyun, kurulum ve barındırma maliyetlerinin ortadan kalkması ile daha ucuz sunulan hizmetler, ve daha düşük başlangıç maliyetleri ile şekillendi.
 
 # Sorun : Kullanılabilirlik
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd719094-bc01-4af3-9a79-3823a53a00cb.jpg)
 
 Tam bu noktada kullanılabilirlik problemleri ortaya çıkmaya başladı. Siz uygulamanızı bulut üzerinden servis ediyorsunuz, ve bu uygulama istenen herkes tarafından anında kullanılmaya başlanabiliyorsa, müşteri temasını ortadan kaldırmak gibi bir amaç güdüyorsanız, burada başka bir sorun ortaya çıkıyor.
 
@@ -87,6 +89,7 @@ Bunun temel sebebi, kullanılan kodların çoğunun işe özel yazılma ihtiyac�
 Mevcut internet uygulamalarında, fonksiyonalite çok gelişmiş olmadığı için fine tuning daha kolay, zaten bu uygulamlaraın genelde temel birkaç kullanılabilirlik problemleri oluyor, çözüldüğü zaman ortada problem kalmıyor. Ancak iş uygulamalarında alan çok geniş olduğu için problem mevcut.
 
 ## 4\. Müşteriye Göre Özelleşme
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d82a515f-4a6f-4b47-9ff6-7960b95d3716.jpg)
 
 Facebook kimseye göre özelleşmiyor. Kapsam sınırlı olduğu için, herkes ihtiyacı olan kadarını kullanıyor ve bunun kullanıcıya bir maliyeti yok. Ancak geniş kapsamlı iş yazılımları için, müşteri kendi ihtiyacı doğrultusunda bazı özelliklere ihtiyaç duyuyor, ve bu özellikleri sunabilmenin yolu da bulut hizmetine sekte vurarak gene maliyetleri yükseltiyor.
 

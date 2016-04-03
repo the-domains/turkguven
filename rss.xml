@@ -4,7 +4,7 @@
         <description><![CDATA[Türkgüven İSG]]></description>
         <link>https://thegrid.ai/turkguven/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 20:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 07:42:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/turkguven/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[İş Güvenliği : Bir Fil Hikayesi]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/turkguven/isg-ve-oyuncular/index.html</link>
             <guid isPermaLink="false">eef8aa7b-dd03-47ab-acf8-addd60632d4e</guid>
             <pubDate>Tue, 15 Mar 2016 20:20:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bulut ve Kullanılabilirlik]]></title>
+            <description><![CDATA[<article><h1>Bulut ve Kullanılabilirlik</h1><h2>Üreticiye Ekonomik Fayda</h2><p>Uzunca bir süredir, kurumsal bilgi işlemleri meşgul eden ve adapte olmalarını gerektiren bir konu var : Bulut.</p></article>]]></description>
+            <link>https://thegrid.ai/turkguven/bulut-ve-kullanilabilirlik/index.html</link>
+            <guid isPermaLink="false">b67f4f8a-7577-4f88-9295-0ed58d268bf1</guid>
+            <pubDate>Sun, 03 Apr 2016 07:42:31 GMT</pubDate>
         </item>
     </channel>
 </rss>

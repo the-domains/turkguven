@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Risk değerlendirme, Türkiye'de İSG ile ilgili en çok kullanılan araç. Bu aracın kullanımı esnasında, çıktı içerisinde hangi kolonların olacağı, bu kolonların sırası, büyüklüğü, fotoğrafların yeri, içeriği vb konuları ile yakından ilgileniyoruz."
-datePublished: '2016-04-03T08:28:59.854Z'
-dateModified: '2016-04-03T08:28:49.441Z'
-title: ''
+description: 'Ancak, sorun tespiti olarak, bu yapılan risk değerlendirmelerin bir excel dosyası içerisinde bilgisayarda ve imzalı olarak bir dosyanın içerisinde tutulması, bize fayda sağlamıyor. Bu ayrı bir tartışma konusu.'
+datePublished: '2016-04-03T08:33:15.576Z'
+dateModified: '2016-04-03T08:33:07.107Z'
+title: 'Risk Değerlendirme : Şubeli Yapılar'
 author: []
 sourcePath: _posts/2016-04-03-risk-degerlendirme-turkiyede-isg-ile-ilgili-en-cok-kullani.md
 published: true
@@ -22,11 +22,8 @@ url: risk-degerlendirme-turkiyede-isg-ile-ilgili-en-cok-kullani/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a20b4d87-6e25-4f99-a5ff-4b0f07f9151e.jpg)
-
-## 
-
-## Risk Değerlendirme : Şubeli Yapılar
+# Risk Değerlendirme : Şubeli Yapılar
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dba1b067-305f-439a-a54b-91a9c34f7039.jpg)
 
 Risk değerlendirme, Türkiye'de İSG ile ilgili en çok kullanılan araç. Bu aracın kullanımı esnasında, çıktı içerisinde hangi kolonların olacağı, bu kolonların sırası, büyüklüğü, fotoğrafların yeri, içeriği vb konuları ile yakından ilgileniyoruz.
 
@@ -83,13 +80,13 @@ Risk değerlendirmeler yapılmadan önce, tüm şubelerde kullanılacak benzer k
 İçerisinde, düzgün gruplanmış soru başlıkları ve hatta risk skorları olur. Bu başlıklar ve maddeler, bazı şubeler için ek maddelere ihtiyaç duyacak olsa da (şubeye göre özelleştirme) genel olarak ortak konulara cevap verebilmelidir.
 
 **2\. Şablonların Raporlanması**
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b5e556fa279bee8314c52c2ebcf3f958/passthrough.png?height=408&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fb1d346fe4c93c0f5d60b75cf64c18521bf630075.png&width=750)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c58405f-c059-449d-9ab5-6a1a1aae0612.png)
-
-Bütün şubeler için, elektrik panosunun altında yalıtkan paspas olma durumu ile ilgili bir risk maddesinin cevaplandırılmasından sonra, iş bunları raporlamaya gelir.
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a374dfd1d6538dc64e6c70f06f9e753d/passthrough.png?height=406&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F7ce004cf1272c6e23bd8fcc8729713dba07590d6.png&width=750)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92ca77a5-2867-4828-9d0d-2a317603881a.png)
-
-Bu raporlama ile ilgili, hem tüm risk değerlendirme için hemde satır bazlı olarak tüm şubeleri Risk Değerlendirme Konsolidasyonu isimli fonksiyonumuz altında sunarak, merkezdeki karar vericinin planlama yapmasına yardımcı oluyoruz.
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9cd539de80461ed9df02ab9eafc64697/passthrough.png?height=365&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F783e3852b21ea29b710cc366218b88b4ec9b8c09.png&width=750)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0dff346c-88d4-453f-b8ee-9ab6a7b45b9f.png)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/01ef188c17f061d26c49c6ee1bd48aff/passthrough.png?height=406&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F566ba2f9f64ff1dc385cfcc67a99819460de746c.png&width=750)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/28f38186-d8ad-4255-8b6b-d16f19b47393.png)
 
 [0]: www.turkguven.com
